@@ -1,0 +1,13 @@
+.colorsMenu {
+  background-color: rgb(3, 87, 87);
+}
+.colorsBg {
+  background-color: rgb(3, 58, 58);
+}
+
+.borderRadius {
+  border-radius: 15px 0 0 0;
+}
+.borderRadiusSobre {
+  border-radius: 0 0 15px 0;
+}
